@@ -1,0 +1,18 @@
+[
+{
+    "path": "/*",
+    "timings": [
+    {
+        "metric": "interactive",
+        "budget": 5000
+    },
+    {
+        "metric": "first-meaningful-paint",
+        "budget": 2000
+    }],
+    "resourceSizes": [
+    {
+        "resourceType": "total",
+        "budget": 800
+    }]
+}]
